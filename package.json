@@ -1,0 +1,18 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "description": "Extra functionality for the meetup application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brent G",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "express": "^4.16.2",
+    "pg": "^7.4.1",
+    "query-string": "^5.1.0",
+    "request": "^2.85.0"
+  }
+}
